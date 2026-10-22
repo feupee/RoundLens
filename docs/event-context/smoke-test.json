@@ -1,0 +1,92 @@
+[
+  {
+    "map": "abyss",
+    "players": 10,
+    "positioned": 9,
+    "score_verified": true,
+    "round_filter_verified": true,
+    "timeline_verified": true,
+    "armor_catalog_verified": true
+  },
+  {
+    "map": "ascent",
+    "players": 10,
+    "positioned": 5,
+    "score_verified": true,
+    "round_filter_verified": true,
+    "timeline_verified": true,
+    "armor_catalog_verified": true
+  },
+  {
+    "map": "breeze",
+    "players": 10,
+    "positioned": 5,
+    "score_verified": true,
+    "round_filter_verified": true,
+    "timeline_verified": true,
+    "armor_catalog_verified": true
+  },
+  {
+    "map": "fracture",
+    "players": 10,
+    "positioned": 6,
+    "score_verified": true,
+    "round_filter_verified": true,
+    "timeline_verified": true,
+    "armor_catalog_verified": true
+  },
+  {
+    "map": "haven",
+    "players": 10,
+    "positioned": 7,
+    "score_verified": true,
+    "round_filter_verified": true,
+    "timeline_verified": true,
+    "armor_catalog_verified": true
+  },
+  {
+    "map": "lotus",
+    "players": 10,
+    "positioned": 8,
+    "score_verified": true,
+    "round_filter_verified": true,
+    "timeline_verified": true,
+    "armor_catalog_verified": true
+  },
+  {
+    "map": "pearl",
+    "players": 10,
+    "positioned": 7,
+    "score_verified": true,
+    "round_filter_verified": true,
+    "timeline_verified": true,
+    "armor_catalog_verified": true
+  },
+  {
+    "map": "split",
+    "players": 10,
+    "positioned": 8,
+    "score_verified": true,
+    "round_filter_verified": true,
+    "timeline_verified": true,
+    "armor_catalog_verified": true
+  },
+  {
+    "map": "summit",
+    "players": 10,
+    "positioned": 4,
+    "score_verified": true,
+    "round_filter_verified": true,
+    "timeline_verified": true,
+    "armor_catalog_verified": true
+  },
+  {
+    "map": "sunset",
+    "players": 10,
+    "positioned": 10,
+    "score_verified": true,
+    "round_filter_verified": true,
+    "timeline_verified": true,
+    "armor_catalog_verified": true
+  }
+]

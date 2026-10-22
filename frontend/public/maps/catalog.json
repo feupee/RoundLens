@@ -1,0 +1,201 @@
+{
+  "source": "https://valorant-api.com/v1/maps",
+  "downloadedAt": "2026-10-20T20:26:53.512150+00:00",
+  "maps": [
+    {
+      "mapUrl": "/Game/Maps/Ascent/Ascent",
+      "name": "Ascent",
+      "image": "/maps/7eaecc1b-4337-bbf6-6ab9-04b8f06b3319-287357fcfce2.png",
+      "matrix": [
+        0,
+        7e-05,
+        0.813895,
+        -7e-05,
+        0,
+        0.573242
+      ],
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "mapUrl": "/Game/Maps/Bonsai/Bonsai",
+      "name": "Split",
+      "image": "/maps/d960549e-485c-e861-8d71-aa9d1aed12a2-cc1022703536.png",
+      "matrix": [
+        0,
+        7.8e-05,
+        0.842188,
+        -7.8e-05,
+        0,
+        0.697578
+      ],
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "mapUrl": "/Game/Maps/Canyon/Canyon",
+      "name": "Fracture",
+      "image": "/maps/b529448b-4d60-346e-e89e-00a4c527a405-d41e013eca94.png",
+      "matrix": [
+        0,
+        7.8e-05,
+        0.556952,
+        -7.8e-05,
+        0,
+        1.155886
+      ],
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "mapUrl": "/Game/Maps/Duality/Duality",
+      "name": "Bind",
+      "image": "/maps/2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba-84f5ff72aa58.png",
+      "matrix": [
+        0,
+        5.9e-05,
+        0.576941,
+        -5.9e-05,
+        0,
+        0.967566
+      ],
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "mapUrl": "/Game/Maps/Foxtrot/Foxtrot",
+      "name": "Breeze",
+      "image": "/maps/2fb9a4fd-47b8-4e7d-a969-74b4046ebd53-82c6472afe6f.png",
+      "matrix": [
+        0,
+        7e-05,
+        0.465123,
+        -7e-05,
+        0,
+        0.833078
+      ],
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "mapUrl": "/Game/Maps/Infinity/Infinity",
+      "name": "Abyss",
+      "image": "/maps/224b0a95-48b9-f703-1bd8-67aca101a61f-466a3d18f78c.png",
+      "matrix": [
+        0,
+        8.1e-05,
+        0.5,
+        -8.1e-05,
+        0,
+        0.5
+      ],
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "mapUrl": "/Game/Maps/Jam/Jam",
+      "name": "Lotus",
+      "image": "/maps/2fe4ed3a-450a-948b-6d6b-e89a78e680a9-d533af2a6fbc.png",
+      "matrix": [
+        0,
+        7.2e-05,
+        0.454789,
+        -7.2e-05,
+        0,
+        0.917752
+      ],
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "mapUrl": "/Game/Maps/Juliett/Juliett",
+      "name": "Sunset",
+      "image": "/maps/92584fbe-486a-b1b2-9faa-39b0f486b498-1188642e2f94.png",
+      "matrix": [
+        0,
+        7.8e-05,
+        0.5,
+        -7.8e-05,
+        0,
+        0.515625
+      ],
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "mapUrl": "/Game/Maps/Pitt/Pitt",
+      "name": "Pearl",
+      "image": "/maps/fd267378-4d1d-484f-ff52-77821ed10dc2-5e0e7d4a80d8.png",
+      "matrix": [
+        0,
+        7.8e-05,
+        0.480469,
+        -7.8e-05,
+        0,
+        0.916016
+      ],
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "mapUrl": "/Game/Maps/Plummet/Plummet",
+      "name": "Summit",
+      "image": "/maps/756da597-416b-c0f2-f47b-afbdf28670bc-e3ceb9a90958.png",
+      "matrix": [
+        0,
+        7.5e-05,
+        0.047401,
+        -7.5e-05,
+        0,
+        0.978891
+      ],
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "mapUrl": "/Game/Maps/Port/Port",
+      "name": "Icebox",
+      "image": "/maps/e2ad5c54-4114-a870-9641-8ea21279579a-85b9cef26829.png",
+      "matrix": [
+        0,
+        7.2e-05,
+        0.460214,
+        -7.2e-05,
+        0,
+        0.304687
+      ],
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "mapUrl": "/Game/Maps/Rook/Rook",
+      "name": "Corrode",
+      "image": "/maps/1c18ab1f-420d-0d8b-71d0-77ad3c439115-9f9ed010f502.png",
+      "matrix": [
+        0,
+        7e-05,
+        0.526158,
+        -7e-05,
+        0,
+        0.5
+      ],
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "mapUrl": "/Game/Maps/Triad/Triad",
+      "name": "Haven",
+      "image": "/maps/2bee0dc9-4ffe-519b-1cbd-7fbe763a6047-f8ccc9cfffaf.png",
+      "matrix": [
+        0,
+        7.5e-05,
+        1.09345,
+        -7.5e-05,
+        0,
+        0.642728
+      ],
+      "width": 1024,
+      "height": 1024
+    }
+  ]
+}

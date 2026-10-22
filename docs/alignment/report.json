@@ -1,0 +1,52 @@
+[
+  {
+    "map": "Ascent",
+    "located_markers": 23341,
+    "outside_image": 0
+  },
+  {
+    "map": "Split",
+    "located_markers": 9980,
+    "outside_image": 0
+  },
+  {
+    "map": "Fracture",
+    "located_markers": 576,
+    "outside_image": 0
+  },
+  {
+    "map": "Breeze",
+    "located_markers": 1285,
+    "outside_image": 4
+  },
+  {
+    "map": "Abyss",
+    "located_markers": 3668,
+    "outside_image": 23
+  },
+  {
+    "map": "Lotus",
+    "located_markers": 23485,
+    "outside_image": 0
+  },
+  {
+    "map": "Sunset",
+    "located_markers": 6824,
+    "outside_image": 0
+  },
+  {
+    "map": "Pearl",
+    "located_markers": 815,
+    "outside_image": 0
+  },
+  {
+    "map": "Summit",
+    "located_markers": 3218,
+    "outside_image": 0
+  },
+  {
+    "map": "Haven",
+    "located_markers": 19861,
+    "outside_image": 20
+  }
+]

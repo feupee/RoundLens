@@ -1,0 +1,19 @@
+services:
+  backend:
+    build: ./backend
+    environment:
+      DATABASE_URL: ${DATABASE_URL:-sqlite:////storage/eventmap.db}
+      CORS_ORIGINS: http://localhost:8080
+    volumes:
+      - eventmap-data:/storage
+      - ./data:/data:ro
+    ports:
+      - "127.0.0.1:8000:8000"
+  frontend:
+    build: ./frontend
+    ports:
+      - "127.0.0.1:8080:80"
+    depends_on:
+      - backend
+volumes:
+  eventmap-data:

@@ -1,0 +1,376 @@
+{
+  "source": "https://valorant-api.com",
+  "agents": {
+    "e370fa57-4757-3604-3648-499e1f642d3f": {
+      "name": "Gekko",
+      "image": "/content/e370fa57-4757-3604-3648-499e1f642d3f.png",
+      "abilities": {
+        "Ability1": "Wingman",
+        "Ability2": "Dizzy",
+        "Grenade": "Mosh Pit",
+        "Ultimate": "Thrash"
+      }
+    },
+    "dade69b4-4f5a-8528-247b-219e5a1facd6": {
+      "name": "Fade",
+      "image": "/content/dade69b4-4f5a-8528-247b-219e5a1facd6.png",
+      "abilities": {
+        "Ability1": "Clausura",
+        "Ability2": "Assombrar",
+        "Grenade": "Espreitador",
+        "Ultimate": "Véu da Noite"
+      }
+    },
+    "5f8d3a7f-467b-97f3-062c-13acf203c006": {
+      "name": "Breach",
+      "image": "/content/5f8d3a7f-467b-97f3-062c-13acf203c006.png",
+      "abilities": {
+        "Ability1": "Estopim",
+        "Ability2": "Falha Tectônica",
+        "Grenade": "Pós-choque",
+        "Ultimate": "Onda Trovejante"
+      }
+    },
+    "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235": {
+      "name": "Deadlock",
+      "image": "/content/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235.png",
+      "abilities": {
+        "Ability1": "Sensor Sônico",
+        "Grenade": "Barreira de Contenção",
+        "Ability2": "GravNet",
+        "Ultimate": "Aniquilação"
+      }
+    },
+    "b444168c-4e35-8076-db47-ef9bf368f384": {
+      "name": "Tejo",
+      "image": "/content/b444168c-4e35-8076-db47-ef9bf368f384.png",
+      "abilities": {
+        "Ability2": "Rajada Guiada",
+        "Ability1": "Entrega Especial",
+        "Ultimate": "Armagedom",
+        "Grenade": "Drone Furtivo"
+      }
+    },
+    "f94c3b30-42be-e959-889c-5aa313dba261": {
+      "name": "Raze",
+      "image": "/content/f94c3b30-42be-e959-889c-5aa313dba261.png",
+      "abilities": {
+        "Ability1": "Carga de Explosivos",
+        "Ability2": "Cartuchos de Tinta",
+        "Grenade": "Bumba",
+        "Ultimate": "Estraga-prazeres"
+      }
+    },
+    "22697a3d-45bf-8dd7-4fec-84a9e28c69d7": {
+      "name": "Chamber",
+      "image": "/content/22697a3d-45bf-8dd7-4fec-84a9e28c69d7.png",
+      "abilities": {
+        "Ability2": "Rendezvous",
+        "Grenade": "Marca Registrada",
+        "Ability1": "Caçador de Cabeças",
+        "Ultimate": "Tour de Force"
+      }
+    },
+    "601dbbe7-43ce-be57-2a40-4abd24953621": {
+      "name": "KAY/O",
+      "image": "/content/601dbbe7-43ce-be57-2a40-4abd24953621.png",
+      "abilities": {
+        "Grenade": "FRAG/mento",
+        "Ability1": "GRANADA/clarão",
+        "Ability2": "PONTO/zero",
+        "Ultimate": "ANULAR/cmd"
+      }
+    },
+    "6f2a04ca-43e0-be17-7f36-b3908627744d": {
+      "name": "Skye",
+      "image": "/content/6f2a04ca-43e0-be17-7f36-b3908627744d.png",
+      "abilities": {
+        "Ability1": "Predador Explosivo",
+        "Ability2": "Luz Desbravadora",
+        "Grenade": "Reflorescer",
+        "Ultimate": "Rastreadores"
+      }
+    },
+    "117ed9e3-49f3-6512-3ccf-0cada7e3823b": {
+      "name": "Cypher",
+      "image": "/content/117ed9e3-49f3-6512-3ccf-0cada7e3823b.png",
+      "abilities": {
+        "Ability1": "Jaula Cibernética",
+        "Ability2": "Câmera de Vigilância",
+        "Grenade": "Fio-armadilha",
+        "Ultimate": "Assalto Neural"
+      }
+    },
+    "320b2a48-4d9b-a075-30f1-1f93a9b638fa": {
+      "name": "Sova",
+      "image": "/content/320b2a48-4d9b-a075-30f1-1f93a9b638fa.png",
+      "abilities": {
+        "Ability1": "Flecha de Choque",
+        "Ability2": "Flecha Rastreadora",
+        "Grenade": "Drone Coruja",
+        "Ultimate": "Fúria do Caçador",
+        "Passive": "Mira Extraordinária"
+      }
+    },
+    "7c8a4701-4de6-9355-b254-e09bc2a34b72": {
+      "name": "Miks",
+      "image": "/content/7c8a4701-4de6-9355-b254-e09bc2a34b72.png",
+      "abilities": {
+        "Grenade": "Pulso M",
+        "Ability2": "Ressonância",
+        "Ability1": "Harmonia",
+        "Ultimate": "Melodia Sísmica"
+      }
+    },
+    "1e58de9c-4950-5125-93e9-a0aee9f98746": {
+      "name": "Killjoy",
+      "image": "/content/1e58de9c-4950-5125-93e9-a0aee9f98746.png",
+      "abilities": {
+        "Grenade": "Nanoenxame",
+        "Ability1": "Robô de Alarme",
+        "Ability2": "Torreta",
+        "Ultimate": "Confinamento"
+      }
+    },
+    "95b78ed7-4637-86d9-7e41-71ba8c293152": {
+      "name": "Harbor",
+      "image": "/content/95b78ed7-4637-86d9-7e41-71ba8c293152.png",
+      "abilities": {
+        "Ability1": "Maré Alta",
+        "Grenade": "Temporal",
+        "Ability2": "Enseada",
+        "Ultimate": "Acerto de Contas"
+      }
+    },
+    "efba5359-4016-a1e5-7626-b1ae76895940": {
+      "name": "Vyse",
+      "image": "/content/efba5359-4016-a1e5-7626-b1ae76895940.png",
+      "abilities": {
+        "Ability1": "Cerca-Viva",
+        "Ability2": "Rosa Arcana",
+        "Grenade": "Espinheiro Cortante",
+        "Ultimate": "Jardim de Aço"
+      }
+    },
+    "707eab51-4836-f488-046a-cda6bf494859": {
+      "name": "Viper",
+      "image": "/content/707eab51-4836-f488-046a-cda6bf494859.png",
+      "abilities": {
+        "Ability1": "Nuvem Venenosa",
+        "Ability2": "Cortina Tóxica",
+        "Grenade": "Veneno de Cobra",
+        "Ultimate": "Poço Peçonhento",
+        "Passive": "Tóxica"
+      }
+    },
+    "eb93336a-449b-9c1b-0a54-a891f7921d69": {
+      "name": "Phoenix",
+      "image": "/content/eb93336a-449b-9c1b-0a54-a891f7921d69.png",
+      "abilities": {
+        "Grenade": "Labareda",
+        "Ability1": "Mãos Quentes",
+        "Ability2": "Bola Curva",
+        "Ultimate": "Renascimento",
+        "Passive": "Aquecimento"
+      }
+    },
+    "92eeef5d-43b5-1d4a-8d03-b3927a09034b": {
+      "name": "Veto",
+      "image": "/content/92eeef5d-43b5-1d4a-8d03-b3927a09034b.png",
+      "abilities": {
+        "Ability2": "Interceptador",
+        "Grenade": "Travessia",
+        "Ultimate": "Evolução",
+        "Ability1": "Imobilidade"
+      }
+    },
+    "41fb69c1-4189-7b37-f117-bcaf1e96f1bf": {
+      "name": "Astra",
+      "image": "/content/41fb69c1-4189-7b37-f117-bcaf1e96f1bf.png",
+      "abilities": {
+        "Ability1": "Pulso Nova",
+        "Ability2": "Nebulosa / Dissipar",
+        "Grenade": "Poço Gravitacional",
+        "Ultimate": "Forma Astral / Divisa\nCósmica",
+        "Passive": "Forma Astral"
+      }
+    },
+    "9f0d8ba9-4140-b941-57d3-a7ad57c6b417": {
+      "name": "Brimstone",
+      "image": "/content/9f0d8ba9-4140-b941-57d3-a7ad57c6b417.png",
+      "abilities": {
+        "Grenade": "Sinalizador Estimulante",
+        "Ability1": "Incendiário",
+        "Ability2": "Fumaça Celeste",
+        "Ultimate": "Ataque Orbital"
+      }
+    },
+    "0e38b510-41a8-5780-5e8f-568b2a4f2d6c": {
+      "name": "Iso",
+      "image": "/content/0e38b510-41a8-5780-5e8f-568b2a4f2d6c.png",
+      "abilities": {
+        "Ability1": "Centelha Debilitante",
+        "Ultimate": "Contrato de Abate",
+        "Ability2": "Fluxo Protetor",
+        "Grenade": "Contingência"
+      }
+    },
+    "1dbf2edd-4729-0984-3115-daa5eed44993": {
+      "name": "Clove",
+      "image": "/content/1dbf2edd-4729-0984-3115-daa5eed44993.png",
+      "abilities": {
+        "Grenade": "Revitalizar",
+        "Ability2": "Artimanha",
+        "Ultimate": "Ainda Não Morri",
+        "Ability1": "Desvitalização"
+      }
+    },
+    "bb2a4828-46eb-8cd1-e765-15848195d751": {
+      "name": "Neon",
+      "image": "/content/bb2a4828-46eb-8cd1-e765-15848195d751.png",
+      "abilities": {
+        "Ability2": "Equipamento Voltaico",
+        "Ability1": "Ricochete Elétrico",
+        "Grenade": "Via Expressa",
+        "Ultimate": "Sobrecarga"
+      }
+    },
+    "7f94d92c-4234-0a36-9646-3a87eb8b5c89": {
+      "name": "Yoru",
+      "image": "/content/7f94d92c-4234-0a36-9646-3a87eb8b5c89.png",
+      "abilities": {
+        "Grenade": "Distração",
+        "Ability1": "Ponto Cego",
+        "Ability2": "Passagem Dimensional",
+        "Ultimate": "Espionagem Dimensional"
+      }
+    },
+    "df1cb487-4902-002e-5c17-d28e83e78588": {
+      "name": "Waylay",
+      "image": "/content/df1cb487-4902-002e-5c17-d28e83e78588.png",
+      "abilities": {
+        "Ability2": "Refração",
+        "Grenade": "Saturação",
+        "Ability1": "Velocidade da Luz",
+        "Ultimate": "Caminhos Convergentes"
+      }
+    },
+    "569fdd95-4d10-43ab-ca70-79becc718b46": {
+      "name": "Sage",
+      "image": "/content/569fdd95-4d10-43ab-ca70-79becc718b46.png",
+      "abilities": {
+        "Ability1": "Orbe de Lentidão",
+        "Ability2": "Orbe Curativo",
+        "Grenade": "Orbe de Barreira",
+        "Ultimate": "Ressurreição"
+      }
+    },
+    "a3bfb853-43b2-7238-a4f1-ad90e9e46bcc": {
+      "name": "Reyna",
+      "image": "/content/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc.png",
+      "abilities": {
+        "Ability1": "Devorar",
+        "Ability2": "Dispensar",
+        "Grenade": "Olhar Voraz",
+        "Ultimate": "Imperatriz"
+      }
+    },
+    "8e253930-4c05-31dd-1b6c-968525494517": {
+      "name": "Omen",
+      "image": "/content/8e253930-4c05-31dd-1b6c-968525494517.png",
+      "abilities": {
+        "Ability1": "Paranoia",
+        "Ability2": "Manto Sombrio",
+        "Grenade": "Passos Tenebrosos",
+        "Ultimate": "Salto das Sombras"
+      }
+    },
+    "add6443a-41bd-e414-f6ad-e58d267f4e95": {
+      "name": "Jett",
+      "image": "/content/add6443a-41bd-e414-f6ad-e58d267f4e95.png",
+      "abilities": {
+        "Ability1": "Corrente Ascendente",
+        "Ability2": "Brisa de Impulso",
+        "Grenade": "Erupção das Brumas",
+        "Ultimate": "Tormenta de Aço",
+        "Passive": "Deriva"
+      }
+    }
+  },
+  "weapons": {
+    "63e6c2b6-4a8e-869c-3d4c-e38355226584": {
+      "name": "Odin"
+    },
+    "55d8a0f4-4274-ca67-fe2c-06ab45efdf58": {
+      "name": "Ares"
+    },
+    "9c82e19d-4575-0200-1a81-3eacf00cf872": {
+      "name": "Vandal"
+    },
+    "8db0a1bf-4a50-832a-4566-faaaa6d250ca": {
+      "name": "Warden"
+    },
+    "ae3de142-4d85-2547-dd26-4e90bed35cf7": {
+      "name": "Bulldog"
+    },
+    "ee8e8d15-496b-07ac-e5f6-8fae5d4c7b1a": {
+      "name": "Phantom"
+    },
+    "ec845bf4-4f79-ddda-a3da-0db3774b2794": {
+      "name": "Judge"
+    },
+    "910be174-449b-c412-ab22-d0873436b21b": {
+      "name": "Bucky"
+    },
+    "44d4e95c-4157-0037-81b2-17841bf2e8e3": {
+      "name": "Frenzy"
+    },
+    "29a0cfab-485b-f5d5-779a-b59f85e204a8": {
+      "name": "Classic"
+    },
+    "410b2e0b-4ceb-1321-1727-20858f7f3477": {
+      "name": "Bandit"
+    },
+    "1baa85b4-4c70-1284-64bb-6481dfc3bb4e": {
+      "name": "Ghost"
+    },
+    "e336c6b8-418d-9340-d77f-7a9e4cfe0702": {
+      "name": "Sheriff"
+    },
+    "42da8ccc-40d5-affc-beec-15aa47b42eda": {
+      "name": "Shorty"
+    },
+    "a03b24d3-4319-996d-0f8c-94bbfba1dfc7": {
+      "name": "Operator"
+    },
+    "4ade7faa-4cf1-8376-95ef-39884480959b": {
+      "name": "Guardian"
+    },
+    "5f0aaf7a-4289-3998-d5ff-eb9a5cf7ef5c": {
+      "name": "Outlaw"
+    },
+    "c4883e50-4494-202c-3ec3-6b8a9284f00b": {
+      "name": "Marshal"
+    },
+    "462080d1-4035-2937-7c09-27aa2a5c27a7": {
+      "name": "Spectre"
+    },
+    "f7e1b454-4ad4-1063-ec0a-159e56b58941": {
+      "name": "Stinger"
+    },
+    "2f59173c-4bed-b6c3-2191-dea9b58be9c7": {
+      "name": "Confronto"
+    }
+  },
+  "gear": {
+    "822bcab2-40a2-324e-c137-e09195ad7692": {
+      "name": "Armadura Pesada"
+    },
+    "4dec83d5-4902-9ab3-bed6-a7a390761157": {
+      "name": "Armadura Leve"
+    },
+    "b1b9086d-41bd-a516-5d29-e3b34a6f1644": {
+      "name": "Escudo Regenerativo"
+    }
+  }
+}
